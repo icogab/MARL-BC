@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """Minimal RBC simulators for MARL-BC – KL & KS families.
 
 Baseline parameters live at the top; tweak them once, and every model
